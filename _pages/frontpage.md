@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: PHIL 246: Foundations of Cognitive Science
+title: PHIL246
 list_title: Home
 ---
 
